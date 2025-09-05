@@ -1,1 +1,3 @@
-ThucDzVclllllllllllllllllllll
+Flask
+Flask-SocketIO
+eventlet
